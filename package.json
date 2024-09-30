@@ -1,0 +1,14 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "Demo Application for Express js and node js",
+  "main": "index.js",
+  "scripts": {
+    "server": "node ./src/app.js"
+  },
+  "author": "Ajay Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
